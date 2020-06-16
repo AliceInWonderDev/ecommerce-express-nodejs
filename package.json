@@ -1,0 +1,25 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "backend to connect to eccommerce",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliceInWonderDev/ecommerce-express-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliceInWonderDev/ecommerce-express-nodejs/issues"
+  },
+  "homepage": "https://github.com/AliceInWonderDev/ecommerce-express-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
